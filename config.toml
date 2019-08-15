@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "100 Days of code"
+themeDir = "themes"
+theme = "hugo-paper-master"
