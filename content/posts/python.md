@@ -12,4 +12,5 @@ draft: true
 * API Development 
 * Build Event Driven apps 
 * Build basic version of stream time.
+* Build a simple Bug Tracker.
 
