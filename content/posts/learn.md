@@ -17,3 +17,4 @@ draft: true
 * Javascript basics and object oriented | Vuejs | react js
 * Basic scss | box model css vs components
 * Git Master 
+* Build a cloud cms with hugo
